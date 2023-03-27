@@ -1,4 +1,3 @@
 # UGUIJustifyText
 UGUIJustifyText 两端对齐Text
-
-## install
+支持多行两端对齐
