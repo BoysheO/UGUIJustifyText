@@ -1,0 +1,23 @@
+{
+  "name": "ugui_justify_text",
+  "version": "1.0.0",
+  "author": {
+    "name": "BoysheO",
+    "url": "github.com/BoysheO"
+  },
+  "displayName": "UGUIJustifyText",
+  "description": "ugui两端对齐",
+  "unity": "2019.4",
+  "keywords": [
+    "unity",
+    "ugui",
+    "text"
+  ],
+  "samples": [
+    {
+      "displayName": "Example",
+      "description": "",
+      "path": "Samples~/Example"
+    }
+  ]
+}
